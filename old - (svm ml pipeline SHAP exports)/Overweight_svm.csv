@@ -1,0 +1,5 @@
+Feature,Average SHAP Value
+Log Median Age,0.008922094511766038
+Obese,0.008085981658944504
+Active Transportation,0.0013835669070411886
+Rate of Active Population,0.0029190355234218223

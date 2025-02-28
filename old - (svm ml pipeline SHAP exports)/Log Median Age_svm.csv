@@ -1,0 +1,5 @@
+Feature,Average SHAP Value
+Overweight,0.18669423133346147
+Obese,0.20036757602476205
+Active Transportation,0.29314914763270167
+Rate of Active Population,0.11454330882532406

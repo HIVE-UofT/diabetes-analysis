@@ -1,0 +1,9 @@
+Feature,Average SHAP Value
+Log Median Age,0.3475060095464806
+Overweight,0.032431400394172354
+Obese,0.15322689104575388
+Active Transportation,0.03621499867561758
+Rate of Active Population,0.05246356792092627
+Rate of Daily Smokers,0.03525728251451656
+Visible Minority Rate,0.24661038219588458
+Work Stress Score,0.07558181926674926
