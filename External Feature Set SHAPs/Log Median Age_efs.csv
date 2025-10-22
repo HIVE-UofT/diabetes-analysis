@@ -1,0 +1,9 @@
+Feature,Average SHAP Value
+Mental Health Score,0.10876708105069673
+Overweight,0.0633947008069052
+Obese,0.05475138998099318
+Active Transportation,0.17676895230611653
+Rate of Active Population,0.039733959464638834
+Rate of Daily Smokers,0.0389107919113309
+Visible Minority Rate,0.11115396476802605
+Work Stress Score,0.0888651163349579

@@ -1,0 +1,19 @@
+Feature,Average SHAP Value
+Food Insecurity Score,3.340733814657048e-08
+Visible Minority Rate,1.2638110531621088e-07
+Work Stress Score,3.6607988446539354e-08
+Mental Health Score,4.0534761670801726e-08
+Rate of Regular Alcohol,1.5248431803436112e-08
+Rate of Daily Smokers,2.0665509230699912e-08
+Rate of Active Population,3.264280163296577e-08
+Active Transportation,4.5724790373970637e-07
+High Education Rate,4.0131152315380574e-08
+Unemployment Rate,2.779671680733228e-08
+Recent Immigrant Rate,1.0615638069509337e-07
+Obese,1.5535685148975294e-08
+Overweight,1.8540896437809318e-08
+Rented Rate,3.063146546666663e-08
+Ethnic Concentration,1.8152584589450094e-07
+Residential Instability,7.162035023843648e-08
+Material Deprivation,4.990775806794214e-08
+Median Age,8.312787141682225e-08
